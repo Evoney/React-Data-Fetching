@@ -1,3 +1,5 @@
+React data fethcing in the right way using vite and the below topics
+
 # TOPICS
 
 ## Stale While Revalidate
